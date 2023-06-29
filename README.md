@@ -1,6 +1,8 @@
 <h1 align="center">Hey , I'm Pratik V 👋</h1>
 <h3 align="center">A passionate Data Scientist from India. I am an undergraduate student pursuing B.Tech in Computer Science Engineering Specialization in AI & ML, Vellore Institute of Technology, Chennai.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left"> <img src="https://github.com/lolipie007/lolipie007/blob/main/github-header-image.png" alt="lolipie007" /> </p>
 - 🔭 I’m currently working on **Brain MRI Segmentation & Generation**
 
 - 🌱 I’m currently learning **Pytorch and Data Visualization**
