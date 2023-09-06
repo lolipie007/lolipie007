@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone, I'm Pratik V 👋 </h1>
+<h1 align="center">Hey Everyone, I'm Pratik V  </h1>
 
 <div align="center"> <img src="https://github.com/lolipie007/lolipie007/blob/main/Blue%20Futurustic%20Technology%20Linkedin%20Banner.png"> </div>
 
